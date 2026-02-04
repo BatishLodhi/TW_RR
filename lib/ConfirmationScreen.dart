@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:flutter/material.dart';
 import 'package:practice/homescreen.dart';
 import 'package:practice/main.dart';
@@ -120,3 +118,4 @@ class ConfirmationScreen extends StatelessWidget {
     );
   }
 }
+
